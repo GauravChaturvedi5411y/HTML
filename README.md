@@ -38,28 +38,6 @@ Concepts used:
 
   * `innerHTML` → Shows the result on the webpage
 
----
-
-## How It Works
-
-1. User enters the first number
-2. User enters the second number
-3. User clicks any operation button
-4. JavaScript function performs calculation
-5. Result is displayed on the screen
-
----
-
-## Concepts Practiced
-
-* Basic HTML structure
-* Input fields in HTML
-* Buttons and events (`onclick`)
-* JavaScript functions
-* Variables using `let`
-* DOM manipulation
-* Arithmetic operators
-
 
 
 ## Author
